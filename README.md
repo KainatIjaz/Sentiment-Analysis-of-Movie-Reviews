@@ -2,7 +2,7 @@
 
 ## 📌 Overview  
 This project applies **Natural Language Processing (NLP)** techniques to classify **IMDB movie reviews** as **positive or negative** using machine learning models.  
-By leveraging text preprocessing, TF-IDF vectorization, and multiple classification algorithms, the project aims to improve sentiment prediction accuracy.  
+By  text preprocessing, TF-IDF vectorization, and multiple classification algorithms, the project aims to improve sentiment prediction accuracy.  
 
 ## 📂 Dataset  
 📌 **Source:** [IMDB Movie Reviews Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)  
